@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1481130857 source:c:\users\user\dropbox\codeblocks\e187569_hw2\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	"okuyaz.h"
+	"Team.h"
+	"User.h"
+	"Queue.h"
+	"isApplicable.h"
+	"addTeam.h"
+	"listedenYerlestir.h"
+	"isDone.h"
+	"siradanYerlestir.h"
+
+1481130524 c:\users\user\dropbox\codeblocks\e187569_hw2\okuyaz.h
+	<fstream>
+	"User.h"
+	"Team.h"
+	"Queue.h"
+	<stdlib.h>
+
+1481130717 c:\users\user\dropbox\codeblocks\e187569_hw2\team.h
+	"User.h"
+
+1480882811 c:\users\user\dropbox\codeblocks\e187569_hw2\user.h
+
+1481130574 c:\users\user\dropbox\codeblocks\e187569_hw2\queue.h
+	"User.h"
+	<string>
+	<string.h>
+
+1481130450 c:\users\user\dropbox\codeblocks\e187569_hw2\isapplicable.h
+	"team.h"
+	"User.h"
+
+1481130513 c:\users\user\dropbox\codeblocks\e187569_hw2\addteam.h
+	<iostream>
+	"okuyaz.h"
+	"team.h"
+	"User.h"
+
+1481130429 c:\users\user\dropbox\codeblocks\e187569_hw2\listedenyerlestir.h
+
+1481130485 c:\users\user\dropbox\codeblocks\e187569_hw2\isdone.h
+
+1481130412 c:\users\user\dropbox\codeblocks\e187569_hw2\siradanyerlestir.h
+

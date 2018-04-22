@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1483561526 source:c:\users\user\dropbox\codeblocks\e187569_hw3\main.cpp
+	<iostream>
+	"Queue.h"
+	"User.h"
+	"globalfuncs.h"
+	"oku.h"
+
+1483561524 c:\users\user\dropbox\codeblocks\e187569_hw3\user.h
+	"Queue.h"
+
+1482599598 c:\users\user\dropbox\codeblocks\e187569_hw3\oku.h
+	<fstream>
+
+1483561523 c:\users\user\dropbox\codeblocks\e187569_hw3\queue.h
+	"User.h"
+	<string>
+	<string.h>
+
+1483561520 c:\users\user\dropbox\codeblocks\e187569_hw3\globalfuncs.h
+	"User.h"
+	"Queue.h"
+

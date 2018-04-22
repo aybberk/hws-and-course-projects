@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1479455046 source:c:\users\user\desktop\codeblocks\e187569_hw1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Game.h"
+	"User.h"
+
+1479455243 c:\users\user\desktop\codeblocks\e187569_hw1\game.h
+
+1479455190 c:\users\user\desktop\codeblocks\e187569_hw1\user.h
+
+1479455705 source:c:\users\user\documents\codeblocks\e187569_hw1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Game.h"
+	"User.h"
+	"Show_Players.h"
+	"AddGame.h"
+	"Play.h"
+
+1479455510 c:\users\user\documents\codeblocks\e187569_hw1\game.h
+
+1479455510 c:\users\user\documents\codeblocks\e187569_hw1\user.h
+
+1479455645 c:\users\user\documents\codeblocks\e187569_hw1\show_players.h
+
+1479455509 c:\users\user\documents\codeblocks\e187569_hw1\addgame.h
+
+1479455664 c:\users\user\documents\codeblocks\e187569_hw1\play.h
+
